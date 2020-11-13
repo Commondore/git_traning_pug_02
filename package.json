@@ -1,0 +1,14 @@
+{
+  "name": "bino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Commondore/bino.git",
+  "author": "Alex Som <alex.som86@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bourbon": "^6.0.0",
+    "jquery": "^3.4.1",
+    "normalize.scss": "^0.1.0"
+  }
+}
